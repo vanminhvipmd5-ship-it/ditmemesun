@@ -1,0 +1,29 @@
+{
+  "name": "hdxaisunwin-vip",
+  "version": "9.0.0",
+  "description": "🚀 HDXAISUNWIN 9.0 - AI Tài Xỉu SunWin Realtime",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "sunwin",
+    "tai-xiu",
+    "ai",
+    "websocket",
+    "realtime",
+    "predict",
+    "hdxaisunwin"
+  ],
+  "author": "@vanminh2603",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "ws": "^8.18.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
